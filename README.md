@@ -11,7 +11,7 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 ### Normalização da Coluna RAM
 ![colunaram](images/colunaram1.png)
 
-### Função para conversões para Dólar
+### Função de conversões para Dólar - taxas de câmbio retiradas em 17/03/25
 ![conversoes](images/conversoes.png)
 
 
