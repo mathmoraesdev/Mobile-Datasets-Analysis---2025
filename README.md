@@ -51,19 +51,8 @@ Bateria vs Preço: Correlação negativa (-0.035) - surpreendentemente, bateria 
 | XGBoost | 0.87 | 20.965 |
 | Regressão Linear | 0.38 | 105.553 |
 
-### Feature Importance
-![Feature Importance](images/feature_importance.png)
-*As features mais importantes para o modelo Random Forest*
-
 ## 🛠️ Tecnologias Utilizadas
-- Python 3.x
+- Python
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
-- Jupyter Notebook
-
-## 🚀 Como Executar
-```bash
-git clone https://github.com/seu-usuario/projeto-analise-dispositivos
-cd projeto-analise-dispositivos
-jupyter notebook analise_dispositivos.ipynb
