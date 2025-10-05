@@ -19,7 +19,13 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 
 ## 📊 Análise Exploratória (EDA)
 
+### Relação entre RAM e Preço
 
+![ramepreco](images/__results___22_0.png)
+
+### Preços Médios por País
+
+![precoporpais](images/__results___25_0.png)
 
 ### Correlação entre Features
 ![Análise de Correlação](images/__results___30_0.png)
@@ -37,7 +43,7 @@ Bateria vs Preço: Correlação negativa (-0.035) - surpreendentemente, bateria 
 ## 🤖 Modelagem Preditiva
 
 ### Resultados dos Modelos
-![Comparação de Modelos](images/resultados_modelos.png)
+![Comparação de Modelos](images/__results___31_0.png)
 
 | Modelo | R² | MSE |
 |--------|----|-----|
