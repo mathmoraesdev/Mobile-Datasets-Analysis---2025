@@ -14,12 +14,16 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 
 ### Correlação entre Features
 ![Análise de Correlação](images/__results___30_0.png)
-*Bateria e qualidade da câmera mostraram alta correlação com preço*
 
-### Principais Insights
-- Dispositivos com bateria > 4500mAh têm 3x mais chance de ser premium
-- Qualidade da câmera (MP) correlaciona 0.65 com preço final
-- 70% dos produtos premium têm menos de 2 anos de lançamento
+### Principais insights:
+
+Peso vs Bateria/Tela: Correlação muito alta (0.85-0.98) - dispositivos maiores têm baterias maiores
+
+RAM vs Preço (EUA): Correlação moderada de 0.46 - mais RAM geralmente significa preço mais alto
+
+Câmera Traseira vs RAM: Correlação de 0.18 - dispositivos com mais RAM tendem a ter melhores câmeras
+
+Bateria vs Preço: Correlação negativa (-0.035) - surpreendentemente, bateria maior não significa preço maior
 
 ## 🤖 Modelagem Preditiva
 
