@@ -13,7 +13,7 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 
 
 ### Correlação entre Features
-![Análise de Correlação](images/correlacao.png)
+![Análise de Correlação](images/__results___30_0.png)
 *Bateria e qualidade da câmera mostraram alta correlação com preço*
 
 ### Principais Insights
