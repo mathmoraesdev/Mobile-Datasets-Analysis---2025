@@ -11,6 +11,10 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 ### Normalização da Coluna RAM
 ![colunaram](images/colunaram1.png)
 
+### Função para conversões para Dólar
+![conversoes](images/conversoes.png)
+
+
 ## 📊 Análise Exploratória (EDA)
 
 
