@@ -8,6 +8,9 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 ### Verificando valores nulos
 ![Verificação de nulo](images/verificacaodenulo.png)
 
+### Normalização da Coluna RAM
+![colunaram](colunaram1.png)
+
 ## 📊 Análise Exploratória (EDA)
 
 
