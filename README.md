@@ -3,7 +3,14 @@
 ## 🎯 Objetivo
 Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver um modelo preditivo para estimar valores com base em suas características.
 
+## 🛠️ Pré-processamento e Manipulação dos Dados
+
+### Verificando valores nulos
+![Verificação de nulo](images/verificacaodenulo.png)
+
 ## 📊 Análise Exploratória (EDA)
+
+
 
 ### Correlação entre Features
 ![Análise de Correlação](images/correlacao.png)
